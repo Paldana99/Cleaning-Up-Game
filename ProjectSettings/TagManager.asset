@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - turn
+  - Enemy
+  - Ground
+  - Collector
+  - PlayerAttack
+  - UIManager
+  - Panel
+  - EndLevel
+  - Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackGround
+  - Water
+  - UI
+  - SpikesLayer
+  - PlayerAttack
+  - EnemyLayer
+  - Ground
+  - Limit
+  - CleanLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Hide
+    uniqueID: 1658067875
+    locked: 0
+  - name: Background
+    uniqueID: 224149709
+    locked: 0
+  - name: Ground
+    uniqueID: 825425515
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2978517647
+    locked: 0
+  - name: UI
+    uniqueID: 3598098085
+    locked: 0
+  - name: Fog
+    uniqueID: 896362613
+    locked: 0
+  - name: Top
+    uniqueID: 2974126113
+    locked: 0
